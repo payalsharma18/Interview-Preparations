@@ -1,3 +1,5 @@
 // JavaScript
 Two Sum Leetcode problem
 To check if a number is Palindrome.
+Splice()
+Slice()
