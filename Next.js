@@ -11,4 +11,6 @@ Page
 Hydration
 Features of Next.js
 Navigation
+Next/image
+Forms of pre rendering in next
 
