@@ -13,4 +13,5 @@ Features of Next.js
 Navigation
 Next/image
 Forms of pre rendering in next
-
+MongoDb
+Node.js
