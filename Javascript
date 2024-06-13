@@ -4,4 +4,4 @@ To check if a number is Palindrome.
 Splice()
 Slice()
 Some more js coding questions
-Solved someleetcode questions
+Solved some leetcode questions
