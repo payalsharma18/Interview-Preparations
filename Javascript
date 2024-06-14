@@ -7,3 +7,4 @@ Some more js coding questions
 Solved some leetcode questions
 Shuffle the array
 maximum product of 3 numbers
+Currying
